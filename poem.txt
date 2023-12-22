@@ -7,4 +7,5 @@ Blue
 red
 
 Change in color
+New color yellow
 These are the colors of the rainbow.
