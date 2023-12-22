@@ -6,6 +6,8 @@ Orange
 Blue
 red
 
+New Indigo Color
+
 Unicorn
 
 Change in color
