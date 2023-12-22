@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 Purple
 pink
@@ -6,6 +6,9 @@ Orange
 Blue
 red
 
+Unicorn
+
 Change in color
 New color yellow
 These are the colors of the rainbow.
+And the Unicorn
