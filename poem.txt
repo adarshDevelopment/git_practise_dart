@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the Pony
 
 Purple
 pink
@@ -12,3 +12,4 @@ Change in color
 New color yellow
 These are the colors of the rainbow.
 And the Unicorn
+Pony
